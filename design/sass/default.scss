@@ -1,0 +1,18 @@
+$couleurPrincipale: #FF3399;
+html {
+    background: $couleurPrincipale;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background: #fff;
+    margin: 0;
+    color: $couleurPrincipale;
+    height: calc(100vh - 40px);
+}
+
+header {
+    background: $couleurPrincipale;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
